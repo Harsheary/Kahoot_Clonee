@@ -2,20 +2,20 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Login from './Components/Login.jsx'
 import Registration from './Components/Registration.jsx'
-import Quizzes from './components/Quizzes.jsx'
+import Quizzes from './Components/Quizzes.jsx'
 import CreateQuiz from './Components/CreateQuiz.jsx'
 import JoinPage from './Components/JoinPage.jsx'
 import Lobby from './Components/Lobby.jsx'
-import PassRandomQuizDasboard from './components/PassRandomQuizDashboard.jsx';
+import PassRandomQuizDasboard from './Components/PassRandomQuizDashboard.jsx';
 import PassRandomQuizSetup from './Components/PassRandomQuizSetup.jsx';
-import PassRandomQuiz from './components/PassRandomQuiz.jsx';
+import PassRandomQuiz from './Components/PassRandomQuiz.jsx';
 import PassRandomQuizResults from './Components/PassRandomQuizResults.jsx';
-import StudentQuiz from './components/StudentQuiz.jsx';
+import StudentQuiz from './Components/StudentQuiz.jsx';
 import TeacherQuiz from './Components/TeacherQuiz.jsx';
 import RightAnswer from './Components/RightAnswer.jsx';
 import WrongAnswer from './Components/WrongAnswer.jsx';
 import StudentFinalScore from './Components/StudentFinalScore.jsx';
-import FinalScoreboard from './components/FinalScoreboard.jsx';
+import FinalScoreboard from './Components/FinalScoreboard.jsx';
 
 //Delete this when actual data is in
 // const mockScores = [
